@@ -9,4 +9,5 @@ Programming Languages: C#, C++, Python, Java, R, SQL
 ## Education
 B.S. in Computer Science, cum laude, May 2024
 
+##
 Feel free to connect with me on LinkedIn. Check out my projects on GitHub!
