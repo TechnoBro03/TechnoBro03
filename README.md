@@ -3,7 +3,9 @@
 ### About Me
 📖 Experience: Coding for 4+ years\
 💡Currently Working On: 3D\
-✉️ Contact Me: [MatthewAnderson.wi@gmail.com](mailto:MatthewAnderson.wi@gmail.com)
+✉️ Contact Me: [Email](mailto:MatthewAnderson.wi@gmail.com), 
+<a href="www.linkedin.com/in/mister-matthew-anderson" target="_blank" rel="noreferrer">
+<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
 
 ### Skills
 
