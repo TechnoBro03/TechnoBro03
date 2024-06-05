@@ -1,10 +1,9 @@
 ## Matthew Anderson
 
 ### About Me
-📖  Experience: 4+ years of coding\
-🧠  Currently Learning: React\
-✉️  Contact Me: [MatthewAnderson.wi@gmail.com](mailto:MatthewAnderson.wi@gmail.com)\
-🌍  Location: Based in Madison, WI
+📖 Experience: Coding for 4+ years\
+💡Currently Working On: 3D\
+✉️ Contact Me: [MatthewAnderson.wi@gmail.com](mailto:MatthewAnderson.wi@gmail.com)
 
 ### Skills
 
