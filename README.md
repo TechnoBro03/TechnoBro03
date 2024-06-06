@@ -2,10 +2,10 @@
 
 ### About Me
 📖 Experience: Coding for 4+ years\
-💡Currently Working On: 3D\
-✉️ Contact Me: [Email](mailto:MatthewAnderson.wi@gmail.com), 
-<a href="www.linkedin.com/in/mister-matthew-anderson" target="_blank" rel="noreferrer">
-<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
+🎓 Education: B.S. in Computer Science, cum laude. Minor in statistics\
+💡 Working On: 2D -> 3D raycasting demo\
+🔍 Looking for: Computer programmer, software development, game development, data science
+
 
 ### Skills
 
@@ -24,9 +24,11 @@
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/r.svg" width="36" height="36" alt="R" /></a>
 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/arduino.svg" width="36" height="36" alt="Arduino" /></a>
 
-## Education
-B.S. in Computer Science, cum laude, May 2024
-
-##
-Feel free to connect with me on LinkedIn. Check out my projects on GitHub!
+### Contact Me
+<a href="mailto:MatthewAnderson.wi@gmail.com" target="_blank" rel="noreferrer">
+<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/gmail.svg" width="36" height="36" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mister-matthew-anderson" target="_blank" rel="noreferrer">
+<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
