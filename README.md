@@ -25,7 +25,11 @@
 <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/r.svg" width="36" height="36" alt="R" /></a>
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/arduino.svg" width="36" height="36" alt="Arduino" /></a>
+<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/arduino-round.svg" width="36" height="36" alt="Arduino" /></a>
+
+### Other Links
+<a href="https://youtube.com/@technobro03" target="_blank" rel="noreferrer">
+<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/youtube.svg" width="36" height="36" alt="Youtube" /></a>
 
 ### Contact Me
 <a href="mailto:MatthewAnderson.wi@gmail.com" target="_blank" rel="noreferrer">
