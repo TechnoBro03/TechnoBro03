@@ -3,7 +3,7 @@
 ### About Me
 📖 Experience: Coding for 4+ years\
 🎓 Education: B.S. in Computer Science, cum laude. Minor in statistics\
-💡 Working On: 2D -> 3D raycasting demo\
+💡 Working on: 2D -> 3D raycasting demo\
 🔍 Looking for: Computer programmer, software development, game development, data science
 
 
@@ -27,10 +27,12 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/arduino-round.svg" width="36" height="36" alt="Arduino" /></a>
 
-### Other Links
+##
+### Links
 <a href="https://youtube.com/@technobro03" target="_blank" rel="noreferrer">
 <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/youtube.svg" width="36" height="36" alt="Youtube" /></a>
 
+##
 ### Contact Me
 <a href="mailto:MatthewAnderson.wi@gmail.com" target="_blank" rel="noreferrer">
 <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/gmail.svg" width="36" height="36" alt="Email" /></a>
