@@ -3,7 +3,7 @@
 ### About Me
 📖 Experience: Coding for 4+ years\
 🎓 Education: B.S. in Computer Science, cum laude. Minor in statistics\
-💡 Working on: 2D -> 3D raycasting demo\
+💡 Working on: Discord Bot\
 🔍 Looking for: Computer programmer, software development, game development, data science
 
 
