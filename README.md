@@ -1,7 +1,7 @@
 ## Matthew Anderson
 
 ### About Me
-📖 Experience: Coding for 4+ years\
+📖 Experience: Coding for 4+ years, IT team lead, undergraduate research in AI.\
 🎓 Education: B.S. in Computer Science, cum laude. Minor in statistics\
 💡 Working on: Discord Bot\
 🔍 Looking for: Computer programmer, software development, game development, data science
