@@ -1,10 +1,10 @@
-## Matthew Anderson
+## TechnoBro03
 
 ### About Me
 📖 Experience: Coding for 5+ years, IT team lead, undergraduate research in AI.\
 🎓 Education: B.S. in Computer Science, cum laude. Minor in statistics\
 💡 Working on: Discord Bot\
-🔍 Looking for: Computer programmer, software development, game development, data science
+🔍 Current Title: Software Engineer
 
 
 ### Skills
@@ -31,10 +31,3 @@
 ### Links
 <a href="https://youtube.com/@technobro03" target="_blank" rel="noreferrer">
 <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/youtube.svg" width="36" height="36" alt="Youtube" /></a>
-
-##
-### Contact Me
-<a href="mailto:MatthewAnderson.wi@gmail.com" target="_blank" rel="noreferrer">
-<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/gmail.svg" width="36" height="36" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/mister-matthew-anderson" target="_blank" rel="noreferrer">
-<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
