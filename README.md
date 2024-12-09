@@ -1,13 +1,13 @@
 ## TechnoBro03
 
 ### About Me
-📖 Experience: Coding for 5+ years, IT team lead, undergraduate research in AI.\
+📖 Experience: Software Engineer, coding for 5+ years, IT team lead, undergraduate research in AI.\
 🎓 Education: B.S. in Computer Science, cum laude. Minor in statistics\
 💡 Working on: Discord Bot\
 🔍 Current Title: Software Engineer
 
 
-### Skills
+### Languages
 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
 <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/csharp.svg" width="36" height="36" alt="C#" /></a>
@@ -26,6 +26,14 @@
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/arduino-round.svg" width="36" height="36" alt="Arduino" /></a>
+
+### Tools
+
+<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer">
+<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/devops.svg" width="36" height="36" alt="Azure DevOps" /></a>
+
+<a href="=https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/git.svg" width="36" height="36" alt="Git" /></a>
 
 ##
 ### Links
