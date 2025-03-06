@@ -6,6 +6,9 @@
 🎓 Education: B.S. in Computer Science, cum laude. Minor in statistics\
 💡 Working on: Discord Bot
 
+##
+[![Github Stats](https://github-readme-stats-umber.vercel.app/api?username=technobro03&show_icons=true&theme=dark)](#)
+
 ### Languages
 
 <div>
@@ -28,7 +31,6 @@
   <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/arduino-round.svg" width="36" height="36" alt="Arduino" /></a>
 </div>
 
-##
 ### Tools
 
 <div>
@@ -42,7 +44,6 @@
   <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/git.svg" width="36" height="36" alt="Git" /></a>
 </div>
 
-##
 ### Links
 <a href="https://youtube.com/@technobro03" target="_blank" rel="noreferrer">
 <img src="https://github.com/TechnoBro03/TechnoBro03/blob/main/icons/youtube.svg" width="36" height="36" alt="Youtube" /></a>
